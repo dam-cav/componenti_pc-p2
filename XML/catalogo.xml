@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LISTA>
+    <CPU>
+        <nome>AMD Ryzen 7 1800x</nome>
+        <prezzo>436.3</prezzo>
+        <consumo>95</consumo>
+        <clock>3600</clock>
+        <clockT>4000</clockT>
+        <core>8</core>
+        <thread>16</thread>
+        <cache>768</cache>
+        <socket>Socket TR4</socket>
+        <tipoRam>SDR</tipoRam>
+        <ramF>2667</ramF>
+        <ramC>2</ramC>
+        <vPci>PCIe 3.0</vPci>
+    </CPU>
+    <CASE_PSU>
+        <nome>Alantik CASC01</nome>
+        <prezzo>31.58</prezzo>
+        <consumo>0</consumo>
+        <formFactor>Mid-Tower</formFactor>
+        <nFan>0</nFan>
+        <nUsb>2</nUsb>
+        <tipoUsb>2xUSB2</tipoUsb>
+        <nJack>2</nJack>
+        <tipoJack>microfono+cuffia</tipoJack>
+        <n35>2</n35>
+        <n25>2</n25>
+        <nMast>4</nMast>
+        <nSsd>0</nSsd>
+        <nPci>7</nPci>
+        <tipo>ATX</tipo>
+        <certificazione>Nessuna</certificazione>
+        <modulare>false</modulare>
+        <ventola>true</ventola>
+        <potenza>500</potenza>
+        <nAtx20>0</nAtx20>
+        <nAtx24>1</nAtx24>
+        <nEps4e4>1</nEps4e4>
+        <nEps4>0</nEps4>
+        <nPcie6>1</nPcie6>
+        <nPcie6e2>1</nPcie6e2>
+        <nMolex>1</nMolex>
+        <nSata>4</nSata>
+    </CASE_PSU>
+    <DESKTOPCASE>
+        <nome>CM Storm Stryker</nome>
+        <prezzo>179.9</prezzo>
+        <consumo>0</consumo>
+        <formFactor>Full-Tower</formFactor>
+        <nFan>5</nFan>
+        <nUsb>4</nUsb>
+        <tipoUsb>2xUSB2+2xUSB3</tipoUsb>
+        <nJack>2</nJack>
+        <tipoJack>Cuffie+Microfono</tipoJack>
+        <n35>6</n35>
+        <n25>4</n25>
+        <nMast>2</nMast>
+        <nSsd>4</nSsd>
+        <nPci>9</nPci>
+    </DESKTOPCASE>
+    <PSU>
+        <nome>Corsair CX850M</nome>
+        <prezzo>108.99</prezzo>
+        <consumo>0</consumo>
+        <tipo>ATX</tipo>
+        <certificazione>80 Bronze</certificazione>
+        <modulare>false</modulare>
+        <ventola>true</ventola>
+        <potenza>850</potenza>
+        <nAtx20>0</nAtx20>
+        <nAtx24>1</nAtx24>
+        <nEps4e4>1</nEps4e4>
+        <nEps4>0</nEps4>
+        <nPcie6>2</nPcie6>
+        <nPcie6e2>2</nPcie6e2>
+        <nMolex>6</nMolex>
+        <nSata>8</nSata>
+    </PSU>
+    <DISSI>
+        <nome>Corsair Hydro H100i CW-9060025-WW</nome>
+        <prezzo>130.77</prezzo>
+        <consumo>0</consumo>
+        <socketcomp>/LGA 1151/LGA 1150/LGA 2011/LGA 1155/LGA 1156/Socket FM2/Socket FM1/Socket AM3/Socket AM2</socketcomp>
+        <liquido>true</liquido>
+    </DISSI>
+    <CPU_GPU>
+        <nome>Intel Core i7-7700K (w/ HD Graphics 630)</nome>
+        <prezzo>326</prezzo>
+        <consumo>50</consumo>
+        <clock>4200</clock>
+        <clockT>4500</clockT>
+        <core>4</core>
+        <thread>8</thread>
+        <cache>8000</cache>
+        <socket>LGA 1151</socket>
+        <tipoRam>SDR</tipoRam>
+        <ramF>2400</ramF>
+        <ramC>2</ramC>
+        <vPci>PCIE 3.0</vPci>
+        <clockBase>350</clockBase>
+        <clockBoost>1150</clockBoost>
+        <memoria>0</memoria>
+        <velMemoria>0</velMemoria>
+        <tipoMem>0</tipoMem>
+        <bandaMem>0</bandaMem>
+        <bus>NA</bus>
+        <sliCross>false</sliCross>
+        <n6pin>0</n6pin>
+        <n6e2pin>0</n6e2pin>
+        <nHdmi>0</nHdmi>
+        <nVga>0</nVga>
+        <nDvi>0</nDvi>
+        <nDisplayPort>0</nDisplayPort>
+    </CPU_GPU>
+    <RAM>
+        <nome>Kingston HyperX Fury DDR4 8Gb</nome>
+        <prezzo>80.12</prezzo>
+        <consumo>0</consumo>
+        <tipoMemoria>DDR4</tipoMemoria>
+        <memoria>8</memoria>
+        <voltaggio>1.2</voltaggio>
+    </RAM>
+    <HDD>
+        <nome>Kingston SSD A400 - 120</nome>
+        <prezzo>57.5</prezzo>
+        <consumo>0</consumo>
+        <tipo>SSD</tipo>
+        <forma>2.5 Pollici</forma>
+        <capacitaSsd>120</capacitaSsd>
+        <capacitaHdd>0</capacitaHdd>
+        <interfaccia>SATA 3</interfaccia>
+        <rpm>0</rpm>
+        <scrittura>0</scrittura>
+        <lettura>0</lettura>
+    </HDD>
+    <GPU>
+        <nome>Nvidia Titan Xp</nome>
+        <prezzo>1200</prezzo>
+        <consumo>250</consumo>
+        <clockBase>1582</clockBase>
+        <clockBoost>1582</clockBoost>
+        <memoria>12000</memoria>
+        <velMemoria>11400</velMemoria>
+        <tipoMem>GDDR5X</tipoMem>
+        <bandaMem>547700</bandaMem>
+        <bus>PCIe 3.0</bus>
+        <sliCross>true</sliCross>
+        <n6pin>1</n6pin>
+        <n6e2pin>1</n6e2pin>
+        <nHdmi>0</nHdmi>
+        <nVga>0</nVga>
+        <nDvi>3</nDvi>
+        <nDisplayPort>0</nDisplayPort>
+    </GPU>
+    <MOBO>
+        <nome>ROG STRIX Z270E GAMING</nome>
+        <prezzo>300</prezzo>
+        <consumo>0</consumo>
+        <socket>LGA 1151</socket>
+        <chipset>Z270</chipset>
+        <ramSlot>4</ramSlot>
+        <tipiRam>DDR4</tipiRam>
+        <ramMaxFreq>3866</ramMaxFreq>
+        <nSata>6</nSata>
+        <tipoSataInt>SATA3</tipoSataInt>
+        <nM2>2</nM2>
+        <audio>ROG SupremeFX 8-Channel</audio>
+        <nUsbInt>6</nUsbInt>
+        <tipoUsbInt>2xUSB3+4xUSB2</tipoUsbInt>
+        <nPciex16>3</nPciex16>
+        <nPciex1>4</nPciex1>
+        <dettagliPci>2xPCIex16+1xPCIex4+4xPCIex1</dettagliPci>
+        <nPs2>1</nPs2>
+        <nUsbEst>6</nUsbEst>
+        <tipoUsbEst>USB3</tipoUsbEst>
+        <nLan>1</nLan>
+        <nHdmi>1</nHdmi>
+        <nDisplayPort>1</nDisplayPort>
+        <nDvi>1</nDvi>
+        <nVga>0</nVga>
+        <audioJack>5</audioJack>
+        <nOpt>1</nOpt>
+        <neSata>0</neSata>
+        <wifi>true</wifi>
+        <extra>NA</extra>
+    </MOBO>
+    <HDD>
+        <nome>Seagate SSHD ST1000LM014</nome>
+        <prezzo>80</prezzo>
+        <consumo>3</consumo>
+        <tipo>SSHD</tipo>
+        <forma>3.5 Pollici</forma>
+        <capacitaSsd>8</capacitaSsd>
+        <capacitaHdd>1000</capacitaHdd>
+        <interfaccia>SATA 3</interfaccia>
+        <rpm>7200</rpm>
+        <scrittura>0</scrittura>
+        <lettura>0</lettura>
+    </HDD>
+</LISTA>

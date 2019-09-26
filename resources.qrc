@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>IMG/icon.svg</file>
+        <file>IMG/cpu.svg</file>
+        <file>IMG/desktopcase.svg</file>
+        <file>IMG/gpu.svg</file>
+        <file>IMG/mobo.svg</file>
+        <file>IMG/psu.svg</file>
+        <file>IMG/ram.svg</file>
+        <file>IMG/hdd.svg</file>
+        <file>IMG/dissi.svg</file>
+        <file>IMG/nothing.svg</file>
+        <file>IMG/user.svg</file>
+    </qresource>
+</RCC>
