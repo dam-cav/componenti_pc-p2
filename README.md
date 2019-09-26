@@ -4,7 +4,7 @@ Progetto per il corso di Programmazione ad Oggetti per la laurea triennale in In
 
 
 
-![](Screenshot/screenshot.png)
+![](Screenshot/Screenshot.png)
 
 
 
@@ -22,7 +22,7 @@ Per semplificare la ricerca delle componenti è possibile filtrare la lista per 
 
 Mentre ogni utente può aggiungere e rimuovere componenti dalla propria wishlist come vuole, per gestire il catalogo completo è necessario avere dei permessi.
 
-![](Screenshot/screenshot2.png)
+![](Screenshot/Screenshot2.png)
 
 I permessi che distinguono gli utenti comuni dagli amministratori sono due:
 
